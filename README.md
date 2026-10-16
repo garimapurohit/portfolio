@@ -2,7 +2,7 @@
 
 > A living record of learning, building, and turning ideas into working software.
 
-🔗 **Live Portfolio:** [portfolio-pearl-five-45.vercel.app](portfoliogarimapurohit.vercel.app/)
+🔗 **Live Portfolio:** [portfoliogarimapurohit.vercel.app/](portfoliogarimapurohit.vercel.app/)
 
 ## About
 
