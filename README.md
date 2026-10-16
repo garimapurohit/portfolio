@@ -104,22 +104,4 @@ npm run preview
 
 Vite generates the production build in the `dist/` directory.
 
-## Deployment
 
-This portfolio is deployed using **Vercel** and can be connected to a GitHub repository for automatic deployments when changes are pushed to the configured branch.
-
-## Connect With Me
-
-- **Portfolio:** [Visit Website](https://portfolio-pearl-five-45.vercel.app/)
-- **LinkedIn:** [Garima Purohit](https://www.linkedin.com/in/garima-purohit-914400291/)
-- **GitHub:** [garimapurohit](https://github.com/garimapurohit)
-- **LeetCode:** [View Profile](https://leetcode.com/u/purohitgarima2623/)
-- **Codeforces:** [View Profile](https://codeforces.com/profile/garimapurohit_)
-- **CodeChef:** [View Profile](https://www.codechef.com/users/lethargicwhale)
-- **Email:** [purohitgarima2307@gmail.com](mailto:purohitgarima2307@gmail.com)
-
----
-
-*Build. Learn. Repeat.*
-
-© 2026 Garima Purohit
